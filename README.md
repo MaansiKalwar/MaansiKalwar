@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Frankly, Git knows what you did last summer!**
 
-- 😎 Pronounce: SHE/HER!**
+- 😎 Pronounce: SHE/HER!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
