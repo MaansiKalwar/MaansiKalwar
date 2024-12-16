@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Self projects !**   
 
 - 🌱 I’m currently learning **Python** 
-   
+    
 - 💬 Ask me why? **If the roses are red, why are violets blue?**  
  
 - 📫 How to reach me **maansikalwar@gmail.com**
