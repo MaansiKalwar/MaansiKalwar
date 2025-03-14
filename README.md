@@ -35,7 +35,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maansikalwar&" alt="maansikalwar" /></p> 
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amit-S-Terdal/Amit-S-Terdal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amit-S-Terdal/Amit-S-Terdal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Amit-S-Terdal/Amit-S-Terdal/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maansikalwar/maansikalwar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maansikalwar/maansikalwar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maansikalwar/maansikalwar/output/github-snake.svg" />
 </picture>
