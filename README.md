@@ -34,3 +34,4 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maansikalwar&" alt="maansikalwar" /></p> 
    
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
